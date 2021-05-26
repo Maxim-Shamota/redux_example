@@ -43,27 +43,27 @@ h1 {
     justify-content: space-around;
 }
 
-#dec {
+.dec {
     width: 65px;
     height: 65px;
     background: #089C20;
     border-radius: 4px;
 }
 
-#inc {
+.inc {
     width: 65px;
     height: 65px;
     background: #E7AA10;
     border-radius: 4px;
 }
 
-#res {
+.res {
     width: 65px;
     height: 65px;
     background: #CF1C1C;
     border-radius: 4px;
 }
 
-#dec img, #inc img, #res img {
+.dec img, .inc img, .res img {
     filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.25))
 }
